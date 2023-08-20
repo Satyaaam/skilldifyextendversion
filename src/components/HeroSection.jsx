@@ -4,20 +4,20 @@ import './heroHelper.css'
 
 const HeroSection = () => {
   return (
-    <div className='hero_part h-fit'>
+    <div className='hero_part h-[100vh] pt-[20px]'>
         <Navbar/>
         <div className='flex flex-col md:items-end py-5'>
             <div className='flex flex-col w-[90%] md:w-[55%] px-3'>
-                <p className='text-white font-semibold text-2xl sm:text-3xl md:text-4xl w-[80%] sm:w-[70%] md:w-[50%] mt-[50px]'>Transforming
+                <p className='text-white font-semibold text-2xl sm:text-3xl md:text-4xl w-[80%] sm:w-[70%] md:w-[50%] mt-[50px] mb-[20px]'>Transforming
                     Talents to
                     Revolutionize
                     the Corporate
                     Work Places
                 </p>
-                <p className='text-gray-200 text-lg mt-[20px] w-[90%] md:w-[80%]'>
+                <p className='text-gray-200 text-lg mt-[30px] w-[90%] md:w-[80%]'>
                     “Skilldify’s aim is to provide a healthy workplace for the right set of talent to the company without any fear of losing…
                 </p>
-                <p className='text-gray-200 text-[1rem] font-bold mt-[15px]'>
+                <p className='text-gray-200 text-[1rem] font-bold mt-[25px] mb-[10px]'>
                     “HUMAN CAPITAL”
                 </p>
                 <hr className='mt-[20px] mb-[30px] w-[100%] md:w-[90%]'/>
