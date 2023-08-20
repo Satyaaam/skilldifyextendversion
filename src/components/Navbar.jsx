@@ -14,8 +14,8 @@ const Navbar = () => {
         <div className='logo_div flex flex-col scale-80 md:scale-100'>
             <span className='text-4xl font-bold text-white'>Skilldify</span>
             <p className='mt-[5px] flex flex-wrap'>
-                <span className='text-[#f8471e] uppercase font-bold'>Performance</span>.
-                <span className='text-black uppercase font-bold'>Productivity</span>.
+                <span className='text-[#f8471e] uppercase font-bold'>Performance</span>
+                <span className='text-black uppercase font-bold'>Productivity</span>
                 <span className='text-[#1ab0c1] uppercase font-bold'>People</span>
             </p>
         </div>
