@@ -1,0 +1,36 @@
+.hero_part{
+    width:100%;
+    background-image:url("../assets/homepageLogo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+}
+@media screen and (max-width:950px) {
+    .nav_list{
+        display:none;
+    }
+    hr{
+        width:100%;
+    }
+    
+}
+
+@media screen and (max-width:450px) {
+    .logo_div{
+        padding:3px 10px;
+    }
+    .logo_div span{
+        font-size:1.5rem
+    }
+    .logo_div p span{
+        font-size:0.55rem;
+    }
+    .have_question{
+        font-size:0.8rem;
+    }
+    .phone_number{
+        font-size:1rem;
+    }
+    
+}
