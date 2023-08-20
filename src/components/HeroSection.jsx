@@ -4,7 +4,7 @@ import './heroHelper.css'
 
 const HeroSection = () => {
   return (
-    <div className='hero_part h-[100vh] pt-[20px]'>
+    <div className='hero_part h-fit pt-[20px]'>
         <Navbar/>
         <div className='flex flex-col md:items-end py-5'>
             <div className='flex flex-col w-[90%] md:w-[55%] px-3'>
