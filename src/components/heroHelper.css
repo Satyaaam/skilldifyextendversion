@@ -7,9 +7,6 @@
     background-attachment:fixed;
 }
 @media screen and (max-width:950px) {
-    .nav_list{
-        display:none;
-    }
     hr{
         width:100%;
     }
@@ -17,18 +14,6 @@
 }
 
 @media screen and (max-width:450px) {
-    .nav_list{
-        display:none;
-    }
-    .logo_div{
-        padding:3px 10px;
-    }
-    .logo_div span{
-        font-size:1.5rem
-    }
-    .logo_div p span{
-        font-size:0.55rem;
-    }
     .have_question{
         font-size:0.8rem;
     }

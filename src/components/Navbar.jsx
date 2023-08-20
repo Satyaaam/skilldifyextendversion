@@ -15,7 +15,7 @@ const Navbar = () => {
             </p>
         </div>
 
-        <div className='nav_list flex gap-10 text-white'>
+        <div className='nav_list hidden md:flex gap-10 text-white'>
             <li className='list-none uppercase cursor-pointer hover:underline font-semibold'>Home</li>
             <li className='list-none uppercase cursor-pointer hover:underline font-semibold'>About us</li>
             <li className='list-none uppercase cursor-pointer hover:underline font-semibold'>Contact us</li>
