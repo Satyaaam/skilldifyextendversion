@@ -17,6 +17,9 @@
 }
 
 @media screen and (max-width:450px) {
+    .nav_list{
+        display:none;
+    }
     .logo_div{
         padding:3px 10px;
     }
