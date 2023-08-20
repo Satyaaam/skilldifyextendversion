@@ -24,6 +24,14 @@
     transition:all 0.15s ease-in-out;
 }
 
+.show_div{
+    border-left:1px solid white;
+    padding-left:30px;
+    padding-top:25px;
+}
+
+
+
 @media screen and (max-width:950px) {
     .nav_list{
         display:none;
