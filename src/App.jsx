@@ -4,6 +4,8 @@ import HeroSection from './components/HeroSection';
 import Knowmore from './components/Knowmore';
 import MadeInIndia from './components/MadeInIndia';
 import WhoAreWe from './components/WhoAreWe';
+import HelpingSection from './components/HelpingSection';
+import OurValues from './components/OurValues';
 const App = () =>{
     return(
         <div>
@@ -11,6 +13,8 @@ const App = () =>{
             <Knowmore/>
             <MadeInIndia/>
             <WhoAreWe/>
+            <HelpingSection/>
+            <OurValues/>
         </div>
     )
 }
