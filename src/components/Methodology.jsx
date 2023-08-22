@@ -42,7 +42,7 @@ const Methodology = () => {
           <div className="flex flex-col div_border border-l-[1px] sm:border-l-[0] border-t-[1px] sm:py-6 py-4">
             <i className="fa-solid fa-copyright text-center md:mb-[30px] sm:mb-[20px] mb-[10px] md:text-8xl sm:text-6xl text-4xl text-[#f8471e]"></i>
             <h1 className="text-white font-bold md:text-3xl sm:text-2xl text-xl text-center sm:mb-[15px] ">
-            Conventional
+            Conventional 
             </h1>
             <p className="text-white text-center text-[1rem] px-4">
               We believe in creating Interventions that align or go through with
