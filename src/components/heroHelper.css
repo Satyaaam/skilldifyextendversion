@@ -5,6 +5,7 @@
     background-size: cover;
     background-position: center;
     background-attachment:fixed;
+    background-color:#25272d;
 }
 @media screen and (max-width:950px) {
     hr{
