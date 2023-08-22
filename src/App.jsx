@@ -6,6 +6,7 @@ import MadeInIndia from './components/MadeInIndia';
 import WhoAreWe from './components/WhoAreWe';
 import HelpingSection from './components/HelpingSection';
 import OurValues from './components/OurValues';
+import Methodology from './components/Methodology';
 const App = () =>{
     return(
         <div>
@@ -15,6 +16,7 @@ const App = () =>{
             <WhoAreWe/>
             <HelpingSection/>
             <OurValues/>
+            <Methodology/>
         </div>
     )
 }
