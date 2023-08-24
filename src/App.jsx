@@ -7,6 +7,7 @@ import WhoAreWe from './components/WhoAreWe';
 import HelpingSection from './components/HelpingSection';
 import OurValues from './components/OurValues';
 import Methodology from './components/Methodology';
+import OurApproch from "./components/OurApproch.jsx";
 const App = () =>{
     return(
         <div>
@@ -17,6 +18,7 @@ const App = () =>{
             <HelpingSection/>
             <OurValues/>
             <Methodology/>
+            <OurApproch/>
         </div>
     )
 }
