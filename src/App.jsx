@@ -10,6 +10,7 @@ import Methodology from './components/Methodology';
 import OurApproch from "./components/OurApproch.jsx";
 import Analysis from "./components/Analysis.jsx";
 import Why from "./components/Why.jsx";
+import Programs from "./components/Programs.jsx";
 const App = () =>{
     return(
         <div>
@@ -23,6 +24,7 @@ const App = () =>{
             <OurApproch/>
             <Analysis/>
             <Why/>
+            <Programs/>
         </div>
     )
 }
