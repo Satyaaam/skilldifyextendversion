@@ -11,6 +11,8 @@ import OurApproch from "./components/OurApproch.jsx";
 import Analysis from "./components/Analysis.jsx";
 import Why from "./components/Why.jsx";
 import Programs from "./components/Programs.jsx";
+import Bringing from './components/Bringing';
+import Footer from './components/Footer';
 const App = () =>{
     return(
         <div>
@@ -25,6 +27,8 @@ const App = () =>{
             <Analysis/>
             <Why/>
             <Programs/>
+            <Bringing/>
+            <Footer/>
         </div>
     )
 }
