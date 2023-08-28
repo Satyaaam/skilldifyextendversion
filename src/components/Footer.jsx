@@ -7,7 +7,6 @@ const Footer = () => {
             {/* <hr className='text-gray-100' /> */}
             <p>Copyright © 2023 Skilldify</p>
             <p>Powered by skilldify</p>
-            <hr className='text-white'/>
         </div>
     </div>
   )
