@@ -8,7 +8,7 @@ const HeroSection = () => {
         <Navbar/>
         <div className='flex flex-col md:items-end py-5'>
             <div className='flex flex-col w-[90%] md:w-[55%] px-3'>
-                <p className='text-white font-semibold text-2xl sm:text-3xl md:text-4xl w-[80%] sm:w-[70%] md:w-[50%] mt-[50px] mb-[20px]'>Transforming
+                <p className='text-white font-semibold text-2xl sm:text-3xl md:text-4xl w-[80%] sm:w-[70%] md:w-[70%] mt-[50px] mb-[20px]'>Transforming
                     Talents to
                     Revolutionize
                     the Corporate

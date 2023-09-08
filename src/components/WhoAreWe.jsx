@@ -31,24 +31,24 @@ const WhoAreWe = () => {
                 </p>
                 <div className='grid grid-cols-2 gap-4 my-[30px] sm:my-[40px] md:my-[50px]'>
                     <div className='flex flex-col items-center justify-center'>
-                        <span className='text-6xl sm:text-7xl md:text-8xl font-bold'>3+</span>
+                        <span className='text-5xl sm:text-5xl md:text-6xl font-bold'>3+</span>
                         <span className='text-[0.9rem] md:text-2xl font-bold items-center'>Years in Business</span>
                     </div>
 
                     <div className='flex flex-col items-center justify-center'>
-                        <span className='text-6xl sm:text-7xl md:text-8xl font-bold'>70+</span>
+                        <span className='text-5xl sm:text-5xl md:text-6xl font-bold'>70+</span>
                         <span className='text-[0.9rem] md:text-2xl font-bold items-center'>Happy Customers</span>
                     </div>
                 </div>
 
                 <div className='grid grid-cols-2 gap-4 my-[30px] sm:my-[40px] md:my-[50px]'>
                     <div className='flex flex-col items-center justify-center'>
-                        <span className='text-6xl sm:text-7xl md:text-8xl font-bold'>500+</span>
+                        <span className='text-5xl sm:text-5xl md:text-6xl font-bold'>500+</span>
                         <span className='text-[0.9rem] md:text-2xl font-bold items-center'>Trainings</span>
                     </div>
 
                     <div className='flex flex-col items-center justify-center'>
-                        <span className='text-6xl sm:text-7xl md:text-8xl font-bold'>20K+</span>
+                        <span className='text-5xl sm:text-5xl md:text-6xl font-bold'>20K+</span>
                         <span className='text-[0.9rem] md:text-2xl font-bold items-center'>Employees Trained</span>
                     </div>
                 </div>
